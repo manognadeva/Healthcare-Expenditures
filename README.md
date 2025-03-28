@@ -2,13 +2,9 @@
 
 This project presents a data storytelling journey into the world of **U.S. healthcare spending**. This is created by Manogna Devalla, Siddhant Singh, and Nayana Magadi Nagaraj as part of a team effort to break down complex datasets and uncover meaningful insights through compelling visuals and narrative flow.
 
---
-
 ## 🧠 Project Objective
 
 To analyze the structure and evolution of U.S. healthcare spending, uncover the drivers behind rising costs, understand the role of insurance, and examine the societal and economic factors influencing the system.
-
---
 
 ## 🔍 Key Questions Explored
 
@@ -19,8 +15,6 @@ To analyze the structure and evolution of U.S. healthcare spending, uncover the 
 - How has public sentiment toward the Affordable Care Act (ACA) changed over time?
 - What is the hidden cost of illegal drug use to the healthcare system?
 - Where is healthcare spending headed in the next decade?
-
---
 
 ## 📈 Key Insights from the Analysis
 
@@ -35,8 +29,6 @@ To analyze the structure and evolution of U.S. healthcare spending, uncover the 
 - 🚨 The U.S. spends **$150 billion/year on illegal drugs**, a major hidden cost not directly visible in traditional healthcare expenditure reports.
 - 🔮 By 2032, total spending is projected to hit **$7.35 trillion**, further emphasizing the need for strategic health policy reforms.
 
---
-
 ## 🛠️ Tools & Technologies
 
 - **📈 Flourish** – Developed dynamic, interactive visualizations including line charts, bar graphs, pictograms, and bubble charts to enhance engagement and storytelling impact.  
@@ -44,20 +36,14 @@ To analyze the structure and evolution of U.S. healthcare spending, uncover the 
 - **🌐 Google Sites** – Built a structured and intuitive website to guide users through the story, ensuring a seamless and engaging data storytelling experience.  
 - **📁 Data Sources** – Utilized publicly available datasets from **CMS (Centers for Medicare & Medicaid Services)**, **KFF (Kaiser Family Foundation)**, and **RAND Corporation** research reports to ensure credibility and data accuracy.
 
---
-
 ## 🌐 Project Website
 
 🔗 [Explore the full interactive project](https://sites.google.com/view/project1-group3/home)
-
---
 
 ## 📬 Contact
 
 Have thoughts, feedback, or questions?  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/manogna-devalla/) or reach out directly through GitHub!
-
---
 
 ## 📢 Acknowledgments
 
