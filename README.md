@@ -13,10 +13,10 @@ To analyze the structure and evolution of U.S. healthcare spending, uncover the 
 ## 🔍 Key Questions Explored
 
 - How does the U.S. compare to global healthcare spending patterns?
-- What are the main drivers of healthcare cost increases: **price vs. quantity**?
+- What are the main drivers of healthcare cost increases: price vs. quantity?
 - How is the U.S. healthcare dollar distributed across categories?
 - What impact does insurance coverage have on healthcare costs?
-- How has **public sentiment toward the Affordable Care Act (ACA)** changed over time?
+- How has public sentiment toward the Affordable Care Act (ACA) changed over time?
 - What is the hidden cost of illegal drug use to the healthcare system?
 - Where is healthcare spending headed in the next decade?
 
@@ -39,10 +39,10 @@ To analyze the structure and evolution of U.S. healthcare spending, uncover the 
 
 ## 🛠️ Tools & Technologies
 
-- **📈 Flourish** – Created dynamic, interactive visualizations (line charts, pictograms, bar graphs, etc.)
-- **📊 Datawrapper** – Built clean, presentation-ready charts to support our narrative
-- **🌐 Google Sites** – Designed a smooth, web-based storytelling experience with structured flow
-- **📁 Data Sources** – CMS (Centers for Medicare & Medicaid Services), KFF (Kaiser Family Foundation), RAND research reports
+- **📈 Flourish** – Developed dynamic, interactive visualizations including line charts, bar graphs, pictograms, and bubble charts to enhance engagement and storytelling impact.  
+- **📊 Datawrapper** – Created clean, concise, and presentation-ready charts to support the narrative and convey key data insights effectively.  
+- **🌐 Google Sites** – Built a structured and intuitive website to guide users through the story, ensuring a seamless and engaging data storytelling experience.  
+- **📁 Data Sources** – Utilized publicly available datasets from **CMS (Centers for Medicare & Medicaid Services)**, **KFF (Kaiser Family Foundation)**, and **RAND Corporation** research reports to ensure credibility and data accuracy.
 
 ---
 
