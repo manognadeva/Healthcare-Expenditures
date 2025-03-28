@@ -1,6 +1,8 @@
 # Healthcare-Expenditures
 
-This project presents a data storytelling journey into the world of **U.S. healthcare spending**. This is created by Manogna Devalla, Siddhant Singh, and Nayana Magadi Nagaraj as part of a team effort to break down complex datasets and uncover meaningful insights through compelling visuals and narrative flow.
+This project presents a data storytelling journey into the world of **U.S. healthcare spending**. 
+
+This is created by Manogna Devalla, Siddhant Singh, and Nayana Magadi Nagaraj as part of a team effort to break down complex datasets and uncover meaningful insights through compelling visuals and narrative flow.
 
 ## 🧠 Project Objective
 
@@ -19,6 +21,17 @@ To analyze the structure and evolution of U.S. healthcare spending, uncover the 
 - How has public sentiment toward the Affordable Care Act (ACA) changed over time?
 - What is the hidden cost of illegal drug use to the healthcare system?
 - Where is healthcare spending headed in the next decade?
+
+## 🛠️ Tools & Technologies
+
+**Flourish** – Developed dynamic, interactive visualizations including line charts, bar graphs, pictograms, and bubble charts to enhance engagement and storytelling impact.  
+
+**Datawrapper** – Created clean, concise, and presentation-ready charts to support the narrative and convey key data insights effectively.  
+
+**Google Sites** – Built a structured and intuitive website to guide users through the story, ensuring a seamless and engaging data storytelling experience. 
+
+**Data Sources** – Utilized publicly available datasets from **CMS (Centers for Medicare & Medicaid Services)**, **KFF (Kaiser Family Foundation)**, and **RAND Corporation** research reports to ensure credibility and data accuracy.
+
 
 ## 📈 Key Insights from the Analysis
 
@@ -43,20 +56,11 @@ To analyze the structure and evolution of U.S. healthcare spending, uncover the 
 🔮  By 2032, total spending is projected to hit **$7.35 trillion**, further emphasizing the need for strategic health policy reforms.
 
 
-## 🛠️ Tools & Technologies
-
-**📈  Flourish** – Developed dynamic, interactive visualizations including line charts, bar graphs, pictograms, and bubble charts to enhance engagement and storytelling impact.  
-
-**📊  Datawrapper** – Created clean, concise, and presentation-ready charts to support the narrative and convey key data insights effectively.  
-
-**🌐  Google Sites** – Built a structured and intuitive website to guide users through the story, ensuring a seamless and engaging data storytelling experience. 
-
-**📁  Data Sources** – Utilized publicly available datasets from **CMS (Centers for Medicare & Medicaid Services)**, **KFF (Kaiser Family Foundation)**, and **RAND Corporation** research reports to ensure credibility and data accuracy.
-
 ## 📬 Contact
 
 Have thoughts, feedback, or questions?  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/manogna-devalla/) or reach out directly through GitHub!
+
 
 ## 📢 Acknowledgments
 
