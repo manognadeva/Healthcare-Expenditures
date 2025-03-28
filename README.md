@@ -19,14 +19,24 @@ To analyze the structure and evolution of U.S. healthcare spending, uncover the 
 ## 📈 Key Insights from the Analysis
 
 📌 **The U.S. leads globally in healthcare expenditure**, spending over **17% of GDP** compared to the global average of 7.2%.
+
 💰 **From 2010 to 2023**, total U.S. healthcare expenditures rose from ~$2.7 trillion to **$4.87 trillion**, driven by an aging population, increased demand for services, and higher treatment costs.
+
+
 🧮 **Service usage (quantity)** has been a stronger driver of cost increases than pricing alone.
+
 🏥 The majority of spending goes to **personal health care**, such as hospital and clinical services, while **public health activity** receives the least.
+
 🧓 **Seniors (65+) contributed the most to spending growth**, with healthcare costs for this group doubling from $407B to $816B between 2010 and 2022.
+
 💊 **Out-of-pocket expenses have steadily increased** despite the presence of insurance, highlighting gaps in coverage and rising deductibles.
+
 📉 The percentage of uninsured Americans has dropped, but **7.9% remained uninsured in 2022**, pointing to ongoing access challenges.
+
 🗳️ **Public opinion on the ACA shifted** from 45% support in 2010 to a clear majority in favor by 2025, reflecting increased acceptance and awareness.
+
 🚨 The U.S. spends **$150 billion/year on illegal drugs**, a major hidden cost not directly visible in traditional healthcare expenditure reports.
+
 🔮 By 2032, total spending is projected to hit **$7.35 trillion**, further emphasizing the need for strategic health policy reforms.
 
 ## 🛠️ Tools & Technologies
