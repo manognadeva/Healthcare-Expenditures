@@ -6,6 +6,10 @@ This project presents a data storytelling journey into the world of **U.S. healt
 
 To analyze the structure and evolution of U.S. healthcare spending, uncover the drivers behind rising costs, understand the role of insurance, and examine the societal and economic factors influencing the system.
 
+## 🌐 Project Website
+
+🔗 [Explore the full interactive project](https://sites.google.com/view/project1-group3/home)
+
 ## 🔍 Key Questions Explored
 
 - How does the U.S. compare to global healthcare spending patterns?
@@ -21,7 +25,6 @@ To analyze the structure and evolution of U.S. healthcare spending, uncover the 
 📌  **The U.S. leads globally in healthcare expenditure**, spending over **17% of GDP** compared to the global average of 7.2%.
 
 💰  **From 2010 to 2023**, total U.S. healthcare expenditures rose from ~$2.7 trillion to **$4.87 trillion**, driven by an aging population, increased demand for services, and higher treatment costs.
-
 
 🧮  **Service usage (quantity)** has been a stronger driver of cost increases than pricing alone.
 
@@ -39,16 +42,16 @@ To analyze the structure and evolution of U.S. healthcare spending, uncover the 
 
 🔮  By 2032, total spending is projected to hit **$7.35 trillion**, further emphasizing the need for strategic health policy reforms.
 
+
 ## 🛠️ Tools & Technologies
 
-**📈 Flourish** – Developed dynamic, interactive visualizations including line charts, bar graphs, pictograms, and bubble charts to enhance engagement and storytelling impact.  
-**📊 Datawrapper** – Created clean, concise, and presentation-ready charts to support the narrative and convey key data insights effectively.  
-**🌐 Google Sites** – Built a structured and intuitive website to guide users through the story, ensuring a seamless and engaging data storytelling experience.  
-**📁 Data Sources** – Utilized publicly available datasets from **CMS (Centers for Medicare & Medicaid Services)**, **KFF (Kaiser Family Foundation)**, and **RAND Corporation** research reports to ensure credibility and data accuracy.
+**📈  Flourish** – Developed dynamic, interactive visualizations including line charts, bar graphs, pictograms, and bubble charts to enhance engagement and storytelling impact.  
 
-## 🌐 Project Website
+**📊  Datawrapper** – Created clean, concise, and presentation-ready charts to support the narrative and convey key data insights effectively.  
 
-🔗 [Explore the full interactive project](https://sites.google.com/view/project1-group3/home)
+**🌐  Google Sites** – Built a structured and intuitive website to guide users through the story, ensuring a seamless and engaging data storytelling experience. 
+
+**📁  Data Sources** – Utilized publicly available datasets from **CMS (Centers for Medicare & Medicaid Services)**, **KFF (Kaiser Family Foundation)**, and **RAND Corporation** research reports to ensure credibility and data accuracy.
 
 ## 📬 Contact
 
