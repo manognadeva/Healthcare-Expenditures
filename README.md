@@ -4,13 +4,16 @@ This project presents a data storytelling journey into the world of **U.S. healt
 
 This is created by Manogna Devalla, Siddhant Singh, and Nayana Magadi Nagaraj as part of a team effort to break down complex datasets and uncover meaningful insights through compelling visuals and narrative flow.
 
+------------------------------------
 ## 🧠 Project Objective
 
 To analyze the structure and evolution of U.S. healthcare spending, uncover the drivers behind rising costs, understand the role of insurance, and examine the societal and economic factors influencing the system.
 
+
 ## 🌐 Project Website
 
 🔗 [Explore the full interactive project](https://sites.google.com/view/project1-group3/home)
+
 
 ## 🔍 Key Questions Explored
 
@@ -21,6 +24,7 @@ To analyze the structure and evolution of U.S. healthcare spending, uncover the 
 - How has public sentiment toward the Affordable Care Act (ACA) changed over time?
 - What is the hidden cost of illegal drug use to the healthcare system?
 - Where is healthcare spending headed in the next decade?
+
 
 ## 🛠️ Tools & Technologies
 
@@ -62,6 +66,6 @@ Have thoughts, feedback, or questions?
 Connect with me on [LinkedIn](https://www.linkedin.com/in/manogna-devalla/) or reach out directly through GitHub!
 
 
-## 📢 Acknowledgments
+### 📢 Acknowledgments
 
 Thanks to the **Storytelling with Data** course and faculty at **Northeastern University** for guiding us through the power of visual communication and impactful data narratives.
